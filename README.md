@@ -1,1 +1,1 @@
-# jscalculator
+# https://cianajoy.github.io/jscalculator/
